@@ -1,13 +1,6 @@
 import socket
 import threading
 
-'''
-This program comes with udpclient.py
-Run udpserver.py first -- python udpserver.py
-Then run udpclient.py -- python udpclient.py
-Printable statements shall determine how UDP server and client interact. 
-'''
-
 bind_ip = "127.0.0.1"
 bind_port = 9999
 

@@ -1,13 +1,6 @@
 import socket
 import threading
 
-'''
-This program comes with tcpclient.py
-Run tcpserver.py first -- python tcpserver.py
-Then run tcpclient.py -- python tcpclient.py
-Printable statements shall determine how TCP server and client interact. 
-'''
-
 bind_ip = "127.0.0.1"
 bind_port = 9999
 

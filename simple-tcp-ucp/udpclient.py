@@ -1,12 +1,5 @@
 import socket
 
-'''
-This program comes with udpserver.py
-Run udpserver.py first -- python udpserver.py
-Then run udpclient.py -- python udpclient.py
-Printable statements shall determine how UDP server and client interact. 
-'''
-
 target_host = "127.0.0.1"
 target_port = 9999
 
